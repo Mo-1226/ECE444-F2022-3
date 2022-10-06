@@ -12,3 +12,8 @@ Activity Three:
 
 ![image](https://user-images.githubusercontent.com/63027842/194188475-f0b680b6-87b5-4083-8f98-d49309390d1f.png)
 
+Activity Four: Currently getting the following error 
+
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/63027842/194188520-a7f6d8e1-6aa8-4a52-8dcc-1bae56420d59.png">
+
+
